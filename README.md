@@ -65,7 +65,7 @@ Personalidade:Determinada e protetora.
 
 Habilidade:Resistência.
 
-Anna consegue correr durante um período um pouco maior antes de ficar cansada.
+Angela consegue correr durante um período um pouco maior antes de ficar cansada.
 
 Função:Personagem equilibrada.
 
