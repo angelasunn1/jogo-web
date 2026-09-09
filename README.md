@@ -2,18 +2,18 @@ GDD — LAKE BODOM: THE LAST NIGHT
 
 1. INFORMAÇÕES GERAIS
 
-Nome:** Lake Bodom: The Last Night
-Gênero:** Terror, Escape Run, Suspense, Aventura 2D
-Plataforma:** Web / PC
-Modo:** Single Player
-Estilo:** Pixel Art 2D
-Público:** Jovens e adultos fãs de jogos de terror e suspense
-Câmera:** Visão lateral 2D
+Nome:Lake Bodom: The Last Night
+Gênero:Terror, Escape Run, Suspense, Aventura 2D
+Plataforma: Web / PC
+Modo:Single Player
+Estilo:Pixel Art 2D
+Público: Jovens e adultos fãs de jogos de terror e suspense
+Câmera: Visão lateral 2D
 
 
 2. RESUMO DO JOGO
 
-Lake Bodom: The Last Night* é um jogo de terror 2D baseado na atmosfera de um acampamento isolado próximo a um lago.
+Lake Bodom: The Last Night é um jogo de terror 2D baseado na atmosfera de um acampamento isolado próximo a um lago.
 O jogador controla uma das quatro protagonistas femininas, que precisam sobreviver durante uma noite em que algo desconhecido começa a persegui-las.
 O objetivo é explorar o acampamento, encontrar objetos importantes, resolver pequenos enigmas e fugir antes que a criatura alcance a personagem.
 A história é apresentada por meio de **textos, imagens, animações e sons**, não sendo necessário utilizar dublagem ou vozes.
@@ -113,67 +113,63 @@ O jogador poderá caminhar pelo cenário e investigar diferentes locais.
 
 Exemplos:
 
-* Barracas;
-* Fogueira;
-* Floresta;
-* Lago;
-* Pequena cabana;
-* Estrada.
+Barracas;
+Fogueira;
+Floresta;
+Lago;
+Pequena cabana;
+Estrada.
 
----
 
-## Coleta de objetos
+Coleta de objetos
 
 Durante a exploração, o jogador encontrará itens necessários para avançar.
 
 Exemplos:
+Lanterna;
+Chave;
+Combustível;
+Rádio;
+Fita;
+Mapa;
+Pilhas.
 
-* Lanterna;
-* Chave;
-* Combustível;
-* Rádio;
-* Fita;
-* Mapa;
-* Pilhas.
 
----
-
-## Escape Run
+Escape Run
 
 Em determinados momentos, o perseguidor aparecerá.
 
 O jogador deverá:
 
-**CORRER → DESVIAR → SOBREVIVER → ESCAPAR.**
+CORRER → DESVIAR → SOBREVIVER → ESCAPAR.
 
 As perseguições serão curtas e pré-programadas para facilitar o desenvolvimento do jogo.
 
----
 
-## Sistema de medo
+Sistema de medo
 
 A personagem possui uma barra de medo.
 
 Ela aumenta quando:
 
-* O perseguidor aparece;
-* A personagem fica muito tempo no escuro;
-* Encontra determinadas pistas;
-* Entra em áreas perigosas.
+O perseguidor aparece;
+A personagem fica muito tempo no escuro;
+Encontra determinadas pistas;
+Entra em áreas perigosas.
 
 Quando a barra fica muito alta, a personagem pode:
 
-* Ficar mais lenta;
-* Tremer;
-* Ter a visão reduzida.
+Ficar mais lenta;
+Tremer;
+Ter a visão reduzida.
 
----
 
-# 7. O PERSEGUIDOR
+
+ 7. O PERSEGUIDOR
 
 O principal inimigo será uma figura misteriosa conhecida apenas como:
 
-## "O HOMEM DO LAGO"
+"O HOMEM DO LAGO"
 
 Sua identidade nunca é revelada completamente.
 
@@ -183,95 +179,90 @@ Para simplificar o desenvolvimento, ele não possuirá uma inteligência artific
 
 Seu comportamento será baseado em:
 
-* Aparições programadas;
-* Movimentos pré-definidos;
-* Perseguições curtas;
-* Desaparecimento após determinados eventos.
+aparições programadas;
+Movimentos pré-definidos;
+Perseguições curtas;
+Desaparecimento após determinados eventos.
 
----
 
-# 8. MAPA
+8. MAPA
 
 O jogo terá apenas **um mapa principal**, dividido em pequenas áreas.
 
-### Área 1 — Acampamento
+Área 1 — Acampamento
 
 Local onde as quatro amigas começam.
 
 Possui:
 
-* Barracas;
-* Fogueira;
-* Mochilas;
-* Objetos iniciais.
+Barracas;
+Fogueira;
+Mochilas;
+ Objetos iniciais.
 
----
 
-### Área 2 — Floresta
+Área 2 — Floresta
 
 Área escura com caminhos estreitos.
 
 O jogador encontrará:
+Pistas;
+Objetos;
+Pequenos obstáculos.
 
-* Pistas;
-* Objetos;
-* Pequenos obstáculos.
 
----
-
-### Área 3 — Lago
+Área 3 — Lago
 
 Uma área mais assustadora.
 
 É onde algumas das principais pistas da história serão encontradas.
 
----
 
-### Área 4 — Cabana
+
+Área 4 — Cabana
 
 Uma pequena construção abandonada.
 
 Dentro dela existem objetos importantes para conseguir fugir.
 
----
 
-### Área 5 — Estrada
+ Área 5 — Estrada
 
 É o objetivo final.
 
 Depois de conseguir os itens necessários, o jogador deverá chegar até a estrada.
 
----
 
-# 9. SISTEMA DE PROGRESSÃO
+
+9. SISTEMA DE PROGRESSÃO
 
 A progressão será simples e linear.
 
-### Etapa 1
+Etapa 1
 
 Explorar o acampamento.
 
-### Etapa 2
+Etapa 2
 
 Perceber que existe algo errado.
 
-### Etapa 3
+Etapa 3
 
 Encontrar a primeira pista.
 
-### Etapa 4
+Etapa 4
 
 Ser perseguida pela primeira vez.
 
-### Etapa 5
+Etapa 5
 
 Explorar a floresta.
 
-### Etapa 6
+Etapa 6
 
 Encontrar a chave da cabana.
 
-### Etapa 7
+Etapa 7
 
 Descobrir novas pistas.
 
@@ -279,37 +270,35 @@ Descobrir novas pistas.
 
 Encontrar o combustível.
 
-### Etapa 9
+Etapa 9
 
 Iniciar a perseguição final.
 
-### Etapa 10
+Etapa 10
 
 Chegar à estrada.
 
----
 
-# 10. ENIGMAS
+10. ENIGMAS
 
 Os enigmas serão simples para que o jogo possa ser desenvolvido facilmente.
 
 Exemplos:
 
-### Enigma da Cabana
+Enigma da Cabana
 
 Encontrar uma senha escondida em uma fotografia.
 
-### Enigma do Gerador
+Enigma do Gerador
 
 Encontrar combustível e ligar o gerador.
 
-### Enigma da Estrada
+Enigma da Estrada
 
 Encontrar a chave que abre o portão.
 
----
 
-# 11. ITENS
+11. ITENS
 
 | Item        | Função                   |
 | ----------- | ------------------------ |
@@ -321,201 +310,187 @@ Encontrar a chave que abre o portão.
 | Fotografia  | Revelar pistas           |
 | Mapa        | Mostrar áreas do cenário |
 
----
 
-# 12. SISTEMA DE VIDA
+
+12. SISTEMA DE VIDA
 
 A personagem terá uma quantidade limitada de vida.
 
 Caso seja atingida pelo perseguidor:
 
-**Vida diminui.**
+Vida diminui.
 
 Se a vida chegar a zero:
 
-**GAME OVER.**
+GAME OVER.
 
 O jogador poderá reiniciar a perseguição ou voltar ao último ponto de salvamento.
 
----
 
-# 13. SISTEMA DE CHECKPOINT
+13. SISTEMA DE CHECKPOINT
 
 Para evitar que o jogador precise recomeçar todo o jogo, haverá pequenos pontos de salvamento.
 
 Exemplo:
 
-**CHECKPOINT 1:** Acampamento
-**CHECKPOINT 2:** Floresta
-**CHECKPOINT 3:** Cabana
-**CHECKPOINT 4:** Antes da fuga final
+CHECKPOINT 1:Acampamento
+CHECKPOINT 2: Floresta
+CHECKPOINT 3:Cabana
+CHECKPOINT 4:antes da fuga final
 
----
 
-# 14. FINAIS
+14. FINAIS
 
 O jogo poderá possuir três finais simples.
 
-### FINAL 1 — FUGA
+FINAL 1 — FUGA
 
 A personagem consegue chegar à estrada e escapar.
 
----
 
 ### FINAL 2 — DESAPARECIMENTO
 
 A personagem é capturada pelo perseguidor.
 
 A tela fica preta e aparece:
+"Ela nunca chegou à estrada."
 
-**"Ela nunca chegou à estrada."**
 
----
 
-### FINAL 3 — O LAGO
+FINAL 3 — O LAGO
 
 A personagem consegue escapar, mas antes de ir embora olha para o lago.
 
 Uma figura aparece do outro lado.
 
 A tela fica preta.
+"Algumas coisas não ficam no passado."
 
-**"Algumas coisas não ficam no passado."**
 
----
+15. CONQUISTAS
 
-# 15. CONQUISTAS
-
-### Primeira Noite
+Primeira Noite
 
 Sobreviva à primeira perseguição.
 
-### Investigadora
+Investigadora
 
 Encontre todas as pistas.
 
-### Sem Olhar Para Trás
+Sem Olhar Para Trás
 
 Complete uma perseguição sem sofrer dano.
-
-### Sobrevivente
+ 
+ Sobrevivente
 
 Termine o jogo.
 
-### O Segredo do Lago
+O Segredo do Lago
 
 Descubra todas as pistas da história.
 
-### Última Corrida
+Última Corrida
 
 Complete a perseguição final.
 
----
 
-# 16. DIFERENCIAL DO JOGO
+16. DIFERENCIAL DO JOGO
 
 O principal diferencial será a combinação de:
 
-* Terror 2D;
-* Escape Run;
-* História de suspense;
-* Quatro protagonistas femininas;
-* Escolha da personagem;
-* Exploração;
-* Perseguições;
-* História contada sem vozes.
+Terror 2D;
+Escape Run;
+História de suspense;
+Quatro protagonistas femininas;
+Escolha da personagem;
+Exploração;
+Perseguições;
+História contada sem vozes.
 
 Cada protagonista possui uma característica própria, permitindo que o jogador escolha o estilo que prefere.
 
----
 
-# 17. NARRATIVA SEM VOZES
+17. NARRATIVA SEM VOZES
 
 O jogo não dependerá de dublagem.
 
 A história será contada através de:
 
-* Caixas de diálogo;
-* Textos na tela;
-* Fotografias;
-* Cartas;
-* Objetos;
-* Animações;
-* Expressões das personagens;
-* Sons ambientes;
-* Música de suspense.
+Caixas de diálogo;
+Textos na tela;
+Fotografias;
+Cartas;
+Objetos;
+Animações;
+Expressões das personagens;
+Sons ambientes;
+Música de suspense.
 
 Isso torna o projeto mais simples de desenvolver para Web.
 
----
 
-# 18. DIREÇÃO DE ARTE
+18. DIREÇÃO DE ARTE
 
-### Estilo
+Estilo
 
 Pixel Art 2D com atmosfera sombria.
 
-### Paleta
+Paleta
 
-* Preto;
-* Cinza;
-* Azul escuro;
-* Verde escuro;
-* Tons avermelhados.
+Preto;
+Cinza;
+Azul escuro;
+Verde escuro;
+Tons avermelhados.
 
-### Cenários
+Cenários
 
 Os cenários deverão transmitir:
 
-* Solidão;
-* Escuridão;
-* Frio;
-* Perigo;
-* Mistério.
+Solidão;
+Escuridão;
+Frio;
+Perigo;
+Mistério.
 
 A iluminação terá papel importante, principalmente através da lanterna.
 
----
 
-# 19. INTERFACE
+19. INTERFACE
 
 A interface será simples.
 
 Na tela serão mostrados:
+❤️ VIDA
 
-**❤️ VIDA**
+😨 MEDO
 
-**😨 MEDO**
+🔦 LANTERNA
 
-**🔦 LANTERNA**
-
-**🎒 INVENTÁRIO**
+🎒 INVENTÁRIO
 
 Durante uma perseguição:
 
-**CORRA!**
+CORRA!
 
 poderá aparecer na tela para indicar ao jogador que deve fugir.
 
----
 
-# 20. CONTROLES
+20. CONTROLES
 
-### Teclado
+Teclado
 
-**A / D ou ← / →** — Movimentar personagem
-**Shift** — Correr
-**E** — Interagir
-**I** — Abrir inventário
-**Esc** — Pausar
+A / D ou ← / → — Movimentar personagem
+Shift — Correr
+E — Interagir
+I — Abrir inventário
+Esc — Pausar
 
----
-
-# 21. MENU PRINCIPAL
+21. MENU PRINCIPAL
 
 O menu contará com:
 
-**LAKE BODOM: THE LAST NIGHT**
+LAKE BODOM: THE LAST NIGHT
 
 ▶ Jogar
 ▶ Escolher personagem
@@ -523,95 +498,85 @@ O menu contará com:
 ▶ Configurações
 ▶ Sair
 
----
-
-# 22. TELA DE ESCOLHA
+ 22. TELA DE ESCOLHA
 
 Antes de começar, o jogador verá as quatro protagonistas:
 
-**ANNA**
+ANGELA
 Resistência
 
-**EMMA**
+BEATRIZ
 Investigação
 
-**LINA**
+IZABELLA
 Velocidade
 
-**SOFIA**
+MILENE
 Estratégia
 
 O jogador escolhe uma e começa a aventura.
 
----
 
-# 23. ESTRUTURA DO GAMEPLAY
+23. ESTRUTURA DO GAMEPLAY
 
 O funcionamento principal será:
 
-**EXPLORAR**
+EXPLORAR
 ↓
-**ENCONTRAR OBJETOS**
+ENCONTRAR OBJETOS
 ↓
-**RESOLVER ENIGMAS**
+RESOLVER ENIGMAS
 ↓
-**ENCONTRAR PISTAS**
+ENCONTRAR PISTAS
 ↓
-**PERSEGUIÇÃO**
+PERSEGUIÇÃO
 ↓
-**ESCAPAR**
+ESCAPAR
 ↓
-**AVANÇAR**
+AVANÇAR
 ↓
-**FUGA FINAL**
+FUGA FINAL
 
----
 
-# 24. TECNOLOGIA
+24. TECNOLOGIA
 
-**Engine:** Godot
+Engine: Godot
 
-**Linguagem:** GDScript
+Linguagem: GDScript
 
-**Plataforma principal:** Web
+Plataforma principal: Web
 
-**Arte:** Pixel Art 2D
+Arte: Pixel Art 2D
 
----
 
-# 25. REQUISITOS DO PROJETO
+ 25. REQUISITOS DO PROJETO
 
 O jogo deverá possuir:
 
-* 1 mapa principal;
-* 5 áreas;
-* 4 protagonistas;
-* 1 perseguidor;
-* Sistema de vida;
-* Sistema de medo;
-* Inventário simples;
-* Objetos interativos;
-* Enigmas;
-* Perseguições programadas;
-* Checkpoints;
-* Menu principal;
-* Tela de escolha de personagem;
-* Sistema de finais;
-* Sistema de conquistas;
-* Efeitos sonoros;
-* Música de suspense;
-* Narrativa totalmente sem vozes.
+1 mapa principal;
+5 áreas;
+4 protagonistas;
+1 perseguidor;
+Sistema de vida;
+Sistema de medo;
+Inventário simples;
+Objetos interativos;
+Enigmas;
+Perseguições programadas;
+Checkpoints;
+Menu principal;
+Tela de escolha de personagem;
+Sistema de finais;
+Sistema de conquistas;
+Efeitos sonoros;
+Música de suspense;
+Narrativa totalmente sem vozes.
 
----
+26. OBJETIVO FINAL DO PROJETO
 
-# 26. OBJETIVO FINAL DO PROJETO
-
-Criar uma experiência curta de **terror 2D focada em exploração, suspense e fuga**, utilizando uma estrutura simples o suficiente para ser desenvolvida como um jogo para Web.
+Criar uma experiência curta de terror 2D focada em exploração, suspense e fuga, utilizando uma estrutura simples o suficiente para ser desenvolvida como um jogo para Web.
 
 O jogador deverá sentir que está sendo observado e perseguido enquanto tenta descobrir o que aconteceu naquela noite.
-
-**O objetivo não é lutar contra o terror.**
-
-**É sobreviver a ele.**
-
+O objetivo não é lutar contra o terror.
+É sobreviver a ele.
  
