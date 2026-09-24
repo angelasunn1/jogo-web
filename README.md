@@ -13,11 +13,11 @@ Câmera: Visão lateral 2D
 
 2. RESUMO DO JOGO
 
-Lake Bodom: The Last Night é um jogo de terror 2D baseado na atmosfera de um acampamento isolado próximo a um lago.
-O jogador controla uma das quatro protagonistas femininas, que precisam sobreviver durante uma noite em que algo desconhecido começa a persegui-las.
-O objetivo é explorar o acampamento, encontrar objetos importantes, resolver pequenos enigmas e fugir antes que a criatura alcance a personagem.
-A história é apresentada por meio de **textos, imagens, animações e sons**, não sendo necessário utilizar dublagem ou vozes.
+Lake Bodom: The Last Night é um jogo de terror e suspense 2D, em estilo pixel art ,ambientado em um acampamento isolado proximo ao lago Badom. Durante uma noite aparentemente comum, quatro jovens perceberam que algo estranho esta acontecendo no local e descobrem que estao sendo perseguidas por uma presença misteriosa.
 
+O jogador controla uma das quatro protagonistas e precisa explorar o acampamento, investigar seus arredores e encontrar pistas sobre os acontecimentos daquela noite. Enquanto avançam pelo mapa as personagens deverao coletar objetos, resolver enigmas, desbloquear novas areas e tomar cuidado para nao serem encontradas pela criatura. 
+
+A experiencia combina exploraçao, investigaçao, perseguiçao e sobrevivencia, criando momentos de tensao em que o jogador precisa decidir quando correr, se esconder ou continuar  
 
 3. OBJETIVO DO JOGO
 
