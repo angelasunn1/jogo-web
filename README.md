@@ -61,49 +61,31 @@ Todas possuem os mesmos controles básicos, mas cada uma possui uma pequena habi
 
 5.1 ANGELA — A CORAJOSA
 
-Personalidade:Determinada e protetora.
-
-Habilidade:Resistência.
-
-Angela consegue correr durante um período um pouco maior antes de ficar cansada.
-
-Função:Personagem equilibrada.
-
-
+Personalidade: Determinada e protetora.
+Características físicas: Cabelo cacheado, castanho e comprido; olhos castanhos; pele morena. Usa camiseta escura, calça jeans e tênis.
+Habilidade — Resistência: Consegue correr durante um período um pouco maior antes de ficar cansada.
+Função: Personagem equilibrada.
 
 5.2 BEATRIZ — A OBSERVADORA
 
-Personalidade:Inteligente e curiosa.
-
-Habilidade:Investigação.
-
-Consegue encontrar pistas e objetos importantes com mais facilidade.
-
-Função:Exploração e investigação.
-
+Personalidade: Inteligente e curiosa.
+Características físicas: Cabelo liso, preto e médio; olhos castanhos; pele clara. Usa blusa clara, calça escura, tênis e óculos.
+Habilidade — Investigação: Consegue encontrar pistas e objetos importantes com mais facilidade.
+Função: Exploração e investigação.
 
 5.3 IZABELLA — A VELOZ
 
-Personalidade:Agitada, corajosa e impulsiva.
+Personalidade: Agitada, corajosa e impulsiva.
+Características físicas: Cabelo cacheado, castanho-avermelhado e preso em um rabo de cavalo; olhos castanhos; pele clara. Usa regata, shorts e tênis.
+Habilidade — Velocidade: Consegue correr mais rápido durante as perseguições.
+Função: Fuga.
 
-Habilidade:Velocidade.
+5.4 MILENE — A ESTRATEGISTA
 
-Consegue correr mais rápido durante as perseguições.
-
-Função:Fuga.
-
-
- 5.4 MILENE — A ESTRATEGISTA
-
-Personalidade:Calma e racional.
-
-Habilidade:Concentração.
-
-Resolve determinados enigmas mais rapidamente.
-
-Função:Puzzles.
-
-
+Personalidade: Calma e racional.
+Características físicas: Cabelo ondulado, ruivo e comprido; olhos verdes; pele clara. Usa moletom, calça escura e botas.
+Habilidade — Concentração: Resolve determinados enigmas mais rapidamente.
+Função: Puzzles.
 
 6. MECÂNICAS PRINCIPAIS
 
