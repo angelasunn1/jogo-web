@@ -1,564 +1,618 @@
-GDD — LAKE BODOM: THE LAST NIGHT
-
+GGDD — SCOOBY-DOO: O MISTÉRIO DA MANSÃO
 1. INFORMAÇÕES GERAIS
-
-Nome:Lake Bodom: The Last Night
-Gênero:Terror, Escape Run, Suspense, Aventura 2D
-Plataforma: Web / PC
-Modo:Single Player
-Estilo:Pixel Art 2D
-Público: Jovens e adultos fãs de jogos de terror e suspense
-Câmera: Visão lateral 2D
-
-
+Título: Scooby-Doo: O Mistério da Mansão
+Gênero: Escape Room / Puzzle / Investigação / Aventura
+Estilo: Mistério, comédia e suspense
+Plataforma: Web
+Formato: 2D
+Modo: Single-player
+Motor: Godot
 2. RESUMO DO JOGO
-
-Lake Bodom: The Last Night é um jogo de terror e suspense 2D, em estilo pixel art ,ambientado em um acampamento isolado proximo ao lago Badom. Durante uma noite aparentemente comum, quatro jovens perceberam que algo estranho esta acontecendo no local e descobrem que estao sendo perseguidas por uma presença misteriosa.
-
-O jogador controla uma das quatro protagonistas e precisa explorar o acampamento, investigar seus arredores e encontrar pistas sobre os acontecimentos daquela noite. Enquanto avançam pelo mapa as personagens deverao coletar objetos, resolver enigmas, desbloquear novas areas e tomar cuidado para nao serem encontradas pela criatura. 
-
-A experiencia combina exploraçao, investigaçao, perseguiçao e sobrevivencia, criando momentos de tensao em que o jogador precisa decidir quando correr, se esconder ou continuar  
-
-3. OBJETIVO DO JOGO
-
-O principal objetivo é:
-
-SOBREVIVER À NOITE E ESCAPAR DO ACAMPAMENTO.
-
-Para conseguir fugir, o jogador deverá:
-
-Explorar o mapa;
-Encontrar objetos;
-Resolver enigmas simples;
-Evitar o perseguidor;
-Descobrir o que aconteceu naquela noite;
-Chegar até a estrada antes de ser capturado.
-
-
-4. HISTÓRIA
-
-Quatro amigas decidem passar uma noite acampando próximo a um lago isolado.
-O local parece tranquilo, mas existem histórias antigas sobre pessoas que desapareceram naquela região.
-Durante a madrugada, as garotas percebem que algo está errado.
-A fogueira se apaga.
-A lanterna começa a falhar.
-O rádio deixa de funcionar.
-E uma das barracas aparece completamente destruída.
-Quando elas tentam sair do acampamento, percebem que o caminho está bloqueado.
-A partir desse momento, começa uma corrida pela sobrevivência.
-As quatro garotas precisam encontrar uma maneira de chegar até a estrada enquanto uma presença desconhecida percorre o acampamento e a floresta.
-Quanto mais elas exploram, mais pistas encontram sobre o que aconteceu naquela noite.
-Porém, existe uma pergunta:
- 
-Quem — ou o que — está perseguindo elas?
-
-
-5. AS 4 PROTAGONISTAS
-
-O jogador poderá escolher uma das quatro personagens antes de iniciar o jogo.
-
-Todas possuem os mesmos controles básicos, mas cada uma possui uma pequena habilidade especial.
-
-5.1 ANGELA — A CORAJOSA
-
-Personalidade: Determinada e protetora.
-Características físicas: Cabelo cacheado, castanho e comprido; olhos castanhos; pele morena. Usa camiseta escura, calça jeans e tênis.
-Habilidade — Resistência: Consegue correr durante um período um pouco maior antes de ficar cansada.
-Função: Personagem equilibrada.
-
-5.2 BEATRIZ — A OBSERVADORA
-
-Personalidade: Inteligente e curiosa.
-Características físicas: Cabelo liso, preto e médio; olhos castanhos; pele clara. Usa blusa clara, calça escura, tênis e óculos.
-Habilidade — Investigação: Consegue encontrar pistas e objetos importantes com mais facilidade.
-Função: Exploração e investigação.
-
-5.3 IZABELLA — A VELOZ
-
-Personalidade: Agitada, corajosa e impulsiva.
-Características físicas: Cabelo cacheado, castanho-avermelhado e preso em um rabo de cavalo; olhos castanhos; pele clara. Usa regata, shorts e tênis.
-Habilidade — Velocidade: Consegue correr mais rápido durante as perseguições.
-Função: Fuga.
-
-5.4 MILENE — A ESTRATEGISTA
-
-Personalidade: Calma e racional.
-Características físicas: Cabelo ondulado, ruivo e comprido; olhos verdes; pele clara. Usa moletom, calça escura e botas.
-Habilidade — Concentração: Resolve determinados enigmas mais rapidamente.
-Função: Puzzles.
-
-6. MECÂNICAS PRINCIPAIS
-
-Exploração
-
-O jogador poderá caminhar pelo cenário e investigar diferentes locais.
-
-Exemplos:
-
-Barracas;
-Fogueira;
-Floresta;
-Lago;
-Pequena cabana;
-Estrada.
-
-
-Coleta de objetos
-
-Durante a exploração, o jogador encontrará itens necessários para avançar.
-
-Exemplos:
-Lanterna;
-Chave;
-Combustível;
-Rádio;
-Fita;
-Mapa;
-Pilhas.
-
-
-Escape Run
-
-Em determinados momentos, o perseguidor aparecerá.
-
-O jogador deverá:
-
-CORRER → DESVIAR → SOBREVIVER → ESCAPAR.
-
-As perseguições serão curtas e pré-programadas para facilitar o desenvolvimento do jogo.
-
-
-Sistema de medo
-
-A personagem possui uma barra de medo.
-
-Ela aumenta quando:
-
-O perseguidor aparece;
-A personagem fica muito tempo no escuro;
-Encontra determinadas pistas;
-Entra em áreas perigosas.
-
-Quando a barra fica muito alta, a personagem pode:
-
-Ficar mais lenta;
-Tremer;
-Ter a visão reduzida.
-
-
-
- 7. O PERSEGUIDOR
-
-O principal inimigo será uma figura misteriosa conhecida apenas como:
-
-"O HOMEM DO LAGO"
-
-Sua identidade nunca é revelada completamente.
-
-Ele aparece em determinados pontos da história e começa a perseguir a personagem.
-
-Para simplificar o desenvolvimento, ele não possuirá uma inteligência artificial complexa.
-
-Seu comportamento será baseado em:
-
-aparições programadas;
-Movimentos pré-definidos;
-Perseguições curtas;
-Desaparecimento após determinados eventos.
-
-
-8. MAPA
-
-O jogo terá apenas **um mapa principal**, dividido em pequenas áreas.
-
-Área 1 — Acampamento
-
-Local onde as quatro amigas começam.
-
-Possui:
-
-Barracas;
-Fogueira;
-Mochilas;
- Objetos iniciais.
-
-
-Área 2 — Floresta
-
-Área escura com caminhos estreitos.
-
-O jogador encontrará:
-Pistas;
-Objetos;
-Pequenos obstáculos.
-
-
-Área 3 — Lago
-
-Uma área mais assustadora.
-
-É onde algumas das principais pistas da história serão encontradas.
-
-
-
-Área 4 — Cabana
-
-Uma pequena construção abandonada.
-
-Dentro dela existem objetos importantes para conseguir fugir.
-
-
- Área 5 — Estrada
-
-É o objetivo final.
-
-Depois de conseguir os itens necessários, o jogador deverá chegar até a estrada.
-
-
-
-9. SISTEMA DE PROGRESSÃO
-
-A progressão será simples e linear.
-
-Etapa 1
-
-Explorar o acampamento.
-
-Etapa 2
-
-Perceber que existe algo errado.
-
-Etapa 3
-
-Encontrar a primeira pista.
-
-Etapa 4
-
-Ser perseguida pela primeira vez.
-
-Etapa 5
-
-Explorar a floresta.
-
-Etapa 6
-
-Encontrar a chave da cabana.
-
-Etapa 7
-
-Descobrir novas pistas.
-
-### Etapa 8
-
-Encontrar o combustível.
-
-Etapa 9
-
-Iniciar a perseguição final.
-
-Etapa 10
-
-Chegar à estrada.
-
-
-10. ENIGMAS
-
-Os enigmas serão simples para que o jogo possa ser desenvolvido facilmente.
-
-Exemplos:
-
-Enigma da Cabana
-
-Encontrar uma senha escondida em uma fotografia.
-
-Enigma do Gerador
-
-Encontrar combustível e ligar o gerador.
-
-Enigma da Estrada
-
-Encontrar a chave que abre o portão.
-
-
-11. ITENS
-
-| Item        | Função                   |
-| ----------- | ------------------------ |
-| Lanterna    | Iluminar áreas escuras   |
-| Pilhas      | Recarregar a lanterna    |
-| Chave       | Abrir portas             |
-| Combustível | Ligar o gerador          |
-| Rádio       | Receber mensagens        |
-| Fotografia  | Revelar pistas           |
-| Mapa        | Mostrar áreas do cenário |
-
-
-
-12. SISTEMA DE VIDA
-
-A personagem terá uma quantidade limitada de vida.
-
-Caso seja atingida pelo perseguidor:
-
-Vida diminui.
-
-Se a vida chegar a zero:
-
-GAME OVER.
-
-O jogador poderá reiniciar a perseguição ou voltar ao último ponto de salvamento.
-
-
-13. SISTEMA DE CHECKPOINT
-
-Para evitar que o jogador precise recomeçar todo o jogo, haverá pequenos pontos de salvamento.
-
+Scooby-Doo: O Mistério da Mansão é um jogo de escape room 2D para Web, inspirado no universo de Scooby-Doo.
+O jogador acompanha Scooby-Doo e a Mistério S/A durante uma investigação em uma antiga mansão, onde acontecimentos misteriosos começaram a acontecer.
+Ao entrarem no local, o grupo acaba preso dentro da mansão e precisa encontrar uma maneira de escapar.
+Para avançar, o jogador deverá explorar os cômodos, encontrar objetos, investigar pistas, solucionar enigmas e desbloquear novas áreas.
+Conforme a investigação avança, novas pistas revelam informações sobre o mistério e sobre a criatura que está assombrando a mansão.
+No final, o jogador deverá juntar todas as informações encontradas, descobrir quem está por trás do mistério e encontrar a saída.
+3. HISTÓRIA
+A Mistério S/A recebe um novo caso envolvendo uma antiga mansão abandonada.
+Moradores da região afirmam ouvir passos durante a noite, portas se abrindo sozinhas e sons estranhos vindos de dentro da casa. Alguns também dizem ter visto uma criatura misteriosa andando pelos corredores.
+Interessados em solucionar o caso, Fred, Daphne, Velma, Salsicha e Scooby-Doo vão até a mansão para investigar.
+Assim que entram no local, a porta principal se fecha misteriosamente.
+O grupo tenta abri-la, mas percebe que ela está trancada.
+Enquanto procuram outra saída, encontram uma série de objetos, documentos, símbolos e mecanismos escondidos pela mansão.
+Cada descoberta revela uma nova parte do mistério.
+Porém, durante a investigação, uma criatura começa a aparecer pelos corredores.
+O grupo precisa continuar investigando enquanto evita ser encontrado.
+Conforme as pistas são reunidas, Velma percebe que os acontecimentos podem não ter uma explicação sobrenatural.
+Agora, além de encontrar uma saída, a equipe precisa descobrir:
+Quem está por trás do monstro?
+4. OBJETIVO
+O principal objetivo é resolver o mistério da mansão e escapar do local.
+Para conseguir isso, o jogador deverá:
+Explorar os cômodos;
+Procurar pistas escondidas;
+Encontrar e coletar objetos;
+Utilizar os itens nos locais corretos;
+Resolver enigmas;
+Descobrir códigos e combinações;
+Desbloquear portas e passagens;
+Encontrar salas secretas;
+Evitar o monstro;
+Juntar as pistas da investigação;
+Descobrir a identidade do responsável pelo mistério;
+Encontrar a saída da mansão.
+Fluxo principal:
+Explorar → Investigar → Encontrar pistas → Resolver puzzles → Desbloquear áreas → Descobrir o mistério → Escapar
+5. PERSONAGENS
+5.1 SCOOBY-DOO
+Personalidade: Medroso, curioso e engraçado.
+Função: Exploração e interação.
+Scooby pode encontrar objetos escondidos e acessar pequenos espaços durante a investigação.
+5.2 SÁLIGACHI
+Personalidade: Medroso, engraçado e guloso.
+Função: Interações e momentos de perseguição.
+Salsicha participa principalmente dos momentos de fuga e pode interagir com determinados objetos.
+5.3 VELMA
+Personalidade: Inteligente, observadora e lógica.
+Função: Investigação.
+Velma ajuda a interpretar documentos, símbolos e pistas encontradas durante o jogo.
+5.4 DAPHNE
+Personalidade: Corajosa, curiosa e determinada.
+Função: Exploração.
+Daphne pode ajudar a encontrar objetos e investigar diferentes ambientes da mansão.
+5.5 FRED
+Personalidade: Corajoso, estratégico e líder.
+Função: Resolução de mecanismos.
+Fred ajuda a investigar mecanismos e encontrar formas de abrir determinadas passagens.
+6. GAMEPLAY
+O jogador deverá explorar a mansão em busca de pistas e objetos necessários para avançar.
+Os cômodos terão elementos interativos que poderão ser examinados.
+Alguns objetos poderão ser coletados e armazenados no inventário para serem utilizados posteriormente.
 Exemplo:
-
-CHECKPOINT 1:Acampamento
-CHECKPOINT 2: Floresta
-CHECKPOINT 3:Cabana
-CHECKPOINT 4:antes da fuga final
-
-
-14. FINAIS
-
-O jogo poderá possuir três finais simples.
-
-FINAL 1 — FUGA
-
-A personagem consegue chegar à estrada e escapar.
-
-
-### FINAL 2 — DESAPARECIMENTO
-
-A personagem é capturada pelo perseguidor.
-
-A tela fica preta e aparece:
-"Ela nunca chegou à estrada."
-
-
-
-FINAL 3 — O LAGO
-
-A personagem consegue escapar, mas antes de ir embora olha para o lago.
-
-Uma figura aparece do outro lado.
-
-A tela fica preta.
-"Algumas coisas não ficam no passado."
-
-
-15. CONQUISTAS
-
-Primeira Noite
-
-Sobreviva à primeira perseguição.
-
-Investigadora
-
-Encontre todas as pistas.
-
-Sem Olhar Para Trás
-
-Complete uma perseguição sem sofrer dano.
- 
- Sobrevivente
-
-Termine o jogo.
-
-O Segredo do Lago
-
-Descubra todas as pistas da história.
-
-Última Corrida
-
-Complete a perseguição final.
-
-
-16. DIFERENCIAL DO JOGO
-
-O principal diferencial será a combinação de:
-
-Terror 2D;
-Escape Run;
-História de suspense;
-Quatro protagonistas femininas;
-Escolha da personagem;
-Exploração;
-Perseguições;
-História contada sem vozes.
-
-Cada protagonista possui uma característica própria, permitindo que o jogador escolha o estilo que prefere.
-
-
-17. NARRATIVA SEM VOZES
-
-O jogo não dependerá de dublagem.
-
-A história será contada através de:
-
-Caixas de diálogo;
-Textos na tela;
+Encontrar chave → Guardar no inventário → Descobrir porta trancada → Utilizar chave → Nova área desbloqueada.
+A exploração será essencial para descobrir a sequência correta dos puzzles.
+7. MECÂNICAS PRINCIPAIS
+7.1 EXPLORAÇÃO
+O jogador poderá explorar diferentes cômodos da mansão e interagir com objetos do cenário.
+Alguns objetos estarão visíveis, enquanto outros estarão escondidos.
+7.2 INVESTIGAÇÃO
+Durante a exploração, o jogador encontrará pistas que ajudarão a entender o mistério.
+As pistas poderão aparecer em:
+Livros;
 Fotografias;
-Cartas;
+Bilhetes;
+Quadros;
 Objetos;
-Animações;
-Expressões das personagens;
-Sons ambientes;
-Música de suspense.
-
-Isso torna o projeto mais simples de desenvolver para Web.
-
-
-18. DIREÇÃO DE ARTE
-
-Estilo
-
-Pixel Art 2D com atmosfera sombria.
-
-Paleta
-
-Preto;
-Cinza;
-Azul escuro;
-Verde escuro;
-Tons avermelhados.
-
-Cenários
-
-Os cenários deverão transmitir:
-
-Solidão;
-Escuridão;
-Frio;
-Perigo;
-Mistério.
-
-A iluminação terá papel importante, principalmente através da lanterna.
-
-
-19. INTERFACE
-
-A interface será simples.
-
-Na tela serão mostrados:
-❤️ VIDA
-
-😨 MEDO
-
-🔦 LANTERNA
-
-🎒 INVENTÁRIO
-
-Durante uma perseguição:
-
-CORRA!
-
-poderá aparecer na tela para indicar ao jogador que deve fugir.
-
-
-20. CONTROLES
-
+Documentos;
+Símbolos;
+Decorações da mansão.
+7.3 PUZZLES
+Os puzzles serão a principal forma de progressão do jogo.
+Podem envolver:
+Códigos;
+Senhas;
+Combinações;
+Sequências;
+Símbolos;
+Quebra-cabeças;
+Memória;
+Lógica;
+Associação de objetos;
+Mecanismos;
+Objetos escondidos.
+7.4 INVENTÁRIO
+O jogador poderá armazenar os objetos encontrados.
+Exemplos:
+🔑 Chave;
+🔦 Lanterna;
+📜 Bilhete;
+🗺️ Mapa;
+🕯️ Vela;
+🧰 Ferramenta;
+🧩 Peças de puzzle.
+Os objetos poderão ser utilizados em diferentes partes da mansão.
+7.5 DIÁRIO DE INVESTIGAÇÃO
+O diário servirá para registrar as principais descobertas do jogador.
+Ele poderá armazenar:
+Pistas;
+Símbolos encontrados;
+Informações sobre os personagens;
+Descobertas sobre a mansão;
+Anotações importantes para os puzzles.
+8. SISTEMA DE PISTAS
+O jogo terá um sistema de dicas para ajudar o jogador caso fique preso em algum puzzle.
+As dicas poderão revelar:
+Onde encontrar determinado objeto;
+Qual elemento do cenário deve ser investigado;
+Uma parte da lógica do puzzle;
+Uma informação necessária para continuar.
+As dicas não revelarão diretamente a resposta.
+9. MAPA DA MANSÃO
+A mansão será dividida em diferentes áreas:
+9.1 Entrada
+Primeiro contato com a mansão e local onde o jogador percebe que está preso.
+9.2 Salão Principal
+Possui objetos antigos, quadros e a primeira pista.
+9.3 Biblioteca
+Local com livros, documentos e puzzles relacionados a códigos.
+9.4 Cozinha
+Possui objetos que poderão ser utilizados em outros ambientes.
+9.5 Corredores
+Conectam os diferentes cômodos e podem apresentar momentos de perseguição.
+9.6 Porão
+Área escura onde serão encontradas pistas importantes sobre o mistério.
+9.7 Sala Secreta
+Área escondida que contém informações importantes sobre o responsável pelos acontecimentos.
+9.8 Sala Final
+Local onde o jogador resolve o último puzzle e descobre a verdade.
+10. PUZZLES
+Os puzzles estarão conectados às pistas encontradas durante a exploração.
+Exemplo:
+O jogador encontra uma porta com quatro símbolos:
+🕯️ 📖 🗝️ 🕰️
+Em outro cômodo, encontra um quadro mostrando os mesmos símbolos em determinada ordem.
+Ao perceber a relação entre os objetos, o jogador coloca a sequência correta na porta.
+Resultado: porta desbloqueada.
+Dessa forma, os puzzles exigirão observação e interpretação, e não apenas tentativa e erro.
+11. PERSEGUIÇÕES
+Durante a investigação, o monstro poderá aparecer em determinados momentos.
+Quando isso acontecer, o jogador deverá fugir até encontrar um local seguro.
+Funcionamento:
+Monstro aparece → Perseguição começa → Jogador procura uma rota de fuga → Encontra esconderijo → Perseguição termina.
+As perseguições serão utilizadas para aumentar o suspense e criar momentos de tensão.
+12. MONSTRO
+Durante grande parte do jogo, o jogador acreditará que está sendo perseguido por uma criatura sobrenatural.
+A identidade e os motivos do monstro serão descobertos gradualmente através das pistas.
+Ao final, será revelado que o monstro não é realmente uma criatura sobrenatural, seguindo a estrutura clássica das histórias de Scooby-Doo.
+13. SISTEMA DE PROGRESSÃO
+A progressão será baseada na exploração e resolução dos puzzles.
+Entrada
+↓
+Primeira investigação
+↓
+Primeiro puzzle
+↓
+Nova área desbloqueada
+↓
+Novas pistas
+↓
+Primeira aparição do monstro
+↓
+Novos puzzles
+↓
+Perseguição
+↓
+Investigação do porão
+↓
+Descoberta da sala secreta
+↓
+Revelação das pistas principais
+↓
+Puzzle final
+↓
+Descoberta do vilão
+↓
+Fuga da mansão
+14. CONDIÇÕES DE VITÓRIA
+O jogador vence quando:
+Resolve os puzzles principais;
+Encontra as pistas necessárias;
+Descobre a identidade do monstro;
+Desbloqueia a saída;
+Escapa da mansão.
+Mensagem final:
+“Mistério resolvido!”
+15. CONDIÇÕES DE DERROTA
+O jogador poderá perder durante determinadas perseguições caso seja alcançado pelo monstro.
+Após perder, poderá retornar ao último ponto de progresso.
+16. CHECKPOINTS
+O progresso poderá ser salvo após:
+Resolver um puzzle importante;
+Desbloquear uma nova área;
+Encontrar uma pista principal;
+Completar uma perseguição.
+17. INTERFACE
+A interface contará com:
+Inventário;
+Diário de investigação;
+Sistema de dicas;
+Indicador de interação;
+Botão de pausa;
+Indicador de progresso.
+A interface terá elementos visuais inspirados em mistério, investigação e histórias de detetive.
+18. CONTROLES
 Teclado
-
-A / D ou ← / → — Movimentar personagem
-Shift — Correr
-E — Interagir
-I — Abrir inventário
-Esc — Pausar
-
-21. MENU PRINCIPAL
-
-O menu contará com:
-
-LAKE BODOM: THE LAST NIGHT
-
-▶ Jogar
-▶ Escolher personagem
-▶ Conquistas
-▶ Configurações
-▶ Sair
-
- 22. TELA DE ESCOLHA
-
-Antes de começar, o jogador verá as quatro protagonistas:
-
-ANGELA
-Resistência
-
-BEATRIZ
-Investigação
-
-IZABELLA
-Velocidade
-
-MILENE
-Estratégia
-
-O jogador escolhe uma e começa a aventura.
-
-
-23. ESTRUTURA DO GAMEPLAY
-
-O funcionamento principal será:
-
-EXPLORAR
-↓
-ENCONTRAR OBJETOS
-↓
-RESOLVER ENIGMAS
-↓
-ENCONTRAR PISTAS
-↓
-PERSEGUIÇÃO
-↓
-ESCAPAR
-↓
-AVANÇAR
-↓
-FUGA FINAL
-
-
-24. TECNOLOGIA
-
-Engine: Godot
-
-Linguagem: GDScript
-
-Plataforma principal: Web
-
-Arte: Pixel Art 2D
-
-
- 25. REQUISITOS DO PROJETO
-
-O jogo deverá possuir:
-
-1 mapa principal;
-5 áreas;
-4 protagonistas;
-1 perseguidor;
-Sistema de vida;
-Sistema de medo;
-Inventário simples;
-Objetos interativos;
-Enigmas;
-Perseguições programadas;
-Checkpoints;
-Menu principal;
-Tela de escolha de personagem;
-Sistema de finais;
-Sistema de conquistas;
-Efeitos sonoros;
+WASD / Setas: movimentação
+E: interagir
+I: abrir inventário
+Esc: pausa
+Mouse
+Clique: interagir com objetos e elementos do cenário
+Arrastar: utilizar itens em determinados objetos
+19. DIREÇÃO DE ARTE
+O jogo terá uma estética 2D cartoon, inspirada no visual clássico de Scooby-Doo.
+A mansão terá:
+Ambientes escuros;
+Cores sombrias;
+Iluminação baixa;
+Objetos antigos;
+Quadros;
+Corredores misteriosos;
+Passagens secretas;
+Elementos engraçados.
+O terror será leve, combinando suspense, investigação e humor.
+20. ÁUDIO
+O jogo contará com:
 Música de suspense;
-Narrativa totalmente sem vozes.
+Sons de passos;
+Portas rangendo;
+Objetos se movendo;
+Sons de perseguição;
+Efeitos sonoros cômicos;
+Sons ambientes da mansão.
+A música e os efeitos mudarão de acordo com a situação do jogador.
+21. TECNOLOGIA
+Motor: Godot
+Linguagem: GDScript
+Plataforma: Web
+Formato: 2D
+Modo: Single-player
+Controles: Teclado e mouse
+Execução: Navegador
+22. DIFERENCIAL
+O diferencial do jogo será transformar o universo de Scooby-Doo em uma experiência de escape room.
+Em vez de apenas seguir uma história, o jogador precisará observar o cenário, interpretar pistas, utilizar objetos e solucionar os enigmas por conta própria para descobrir a verdade e escapar da mansão.GDD — SCOOBY-DOO: O MISTÉRIO DA MANSÃO
+1. INFORMAÇÕES GERAIS
+Título: Scooby-Doo: O Mistério da Mansão
+Gênero: Escape Room / Puzzle / Investigação / Aventura
+Estilo: Mistério, comédia e suspense
+Plataforma: Web
+Formato: 2D
+Modo: Single-player
+Motor: Godot
+2. RESUMO DO JOGO
+Scooby-Doo: O Mistério da Mansão é um jogo de escape room 2D para Web, inspirado no universo de Scooby-Doo.
+O jogador acompanha Scooby-Doo e a Mistério S/A durante uma investigação em uma antiga mansão, onde acontecimentos misteriosos começaram a acontecer.
+Ao entrarem no local, o grupo acaba preso dentro da mansão e precisa encontrar uma maneira de escapar.
+Para avançar, o jogador deverá explorar os cômodos, encontrar objetos, investigar pistas, solucionar enigmas e desbloquear novas áreas.
+Conforme a investigação avança, novas pistas revelam informações sobre o mistério e sobre a criatura que está assombrando a mansão.
+No final, o jogador deverá juntar todas as informações encontradas, descobrir quem está por trás do mistério e encontrar a saída.
+3. HISTÓRIA
+A Mistério S/A recebe um novo caso envolvendo uma antiga mansão abandonada.
+Moradores da região afirmam ouvir passos durante a noite, portas se abrindo sozinhas e sons estranhos vindos de dentro da casa. Alguns também dizem ter visto uma criatura misteriosa andando pelos corredores.
+Interessados em solucionar o caso, Fred, Daphne, Velma, Salsicha e Scooby-Doo vão até a mansão para investigar.
+Assim que entram no local, a porta principal se fecha misteriosamente.
+O grupo tenta abri-la, mas percebe que ela está trancada.
+Enquanto procuram outra saída, encontram uma série de objetos, documentos, símbolos e mecanismos escondidos pela mansão.
+Cada descoberta revela uma nova parte do mistério.
+Porém, durante a investigação, uma criatura começa a aparecer pelos corredores.
+O grupo precisa continuar investigando enquanto evita ser encontrado.
+Conforme as pistas são reunidas, Velma percebe que os acontecimentos podem não ter uma explicação sobrenatural.
+Agora, além de encontrar uma saída, a equipe precisa descobrir:
+Quem está por trás do monstro?
+4. OBJETIVO
+O principal objetivo é resolver o mistério da mansão e escapar do local.
+Para conseguir isso, o jogador deverá:
+Explorar os cômodos;
+Procurar pistas escondidas;
+Encontrar e coletar objetos;
+Utilizar os itens nos locais corretos;
+Resolver enigmas;
+Descobrir códigos e combinações;
+Desbloquear portas e passagens;
+Encontrar salas secretas;
+Evitar o monstro;
+Juntar as pistas da investigação;
+Descobrir a identidade do responsável pelo mistério;
+Encontrar a saída da mansão.
+Fluxo principal:
+Explorar → Investigar → Encontrar pistas → Resolver puzzles → Desbloquear áreas → Descobrir o mistério → Escapar
+5. PERSONAGENS
+5.1 SCOOBY-DOO
+Personalidade: Medroso, curioso e engraçado.
+Função: Exploração e interação.
+Scooby pode encontrar objetos escondidos e acessar pequenos espaços durante a investigação.
+5.2 SÁLIGACHI
+Personalidade: Medroso, engraçado e guloso.
+Função: Interações e momentos de perseguição.
+Salsicha participa principalmente dos momentos de fuga e pode interagir com determinados objetos.
+5.3 VELMA
+Personalidade: Inteligente, observadora e lógica.
+Função: Investigação.
+Velma ajuda a interpretar documentos, símbolos e pistas encontradas durante o jogo.
+5.4 DAPHNE
+Personalidade: Corajosa, curiosa e determinada.
+Função: Exploração.
+Daphne pode ajudar a encontrar objetos e investigar diferentes ambientes da mansão.
+5.5 FRED
+Personalidade: Corajoso, estratégico e líder.
+Função: Resolução de mecanismos.
+Fred ajuda a investigar mecanismos e encontrar formas de abrir determinadas passagens.
+6. GAMEPLAY
+O jogador deverá explorar a mansão em busca de pistas e objetos necessários para avançar.
+Os cômodos terão elementos interativos que poderão ser examinados.
+Alguns objetos poderão ser coletados e armazenados no inventário para serem utilizados posteriormente.
+Exemplo:
+Encontrar chave → Guardar no inventário → Descobrir porta trancada → Utilizar chave → Nova área desbloqueada.
+A exploração será essencial para descobrir a sequência correta dos puzzles.
+7. MECÂNICAS PRINCIPAIS
+7.1 EXPLORAÇÃO
+O jogador poderá explorar diferentes cômodos da mansão e interagir com objetos do cenário.
+Alguns objetos estarão visíveis, enquanto outros estarão escondidos.
+7.2 INVESTIGAÇÃO
+Durante a exploração, o jogador encontrará pistas que ajudarão a entender o mistério.
+As pistas poderão aparecer em:
+Livros;
+Fotografias;
+Bilhetes;
+Quadros;
+Objetos;
+Documentos;
+Símbolos;
+Decorações da mansão.
+7.3 PUZZLES
+Os puzzles serão a principal forma de progressão do jogo.
+Podem envolver:
+Códigos;
+Senhas;
+Combinações;
+Sequências;
+Símbolos;
+Quebra-cabeças;
+Memória;
+Lógica;
+Associação de objetos;
+Mecanismos;
+Objetos escondidos.
+7.4 INVENTÁRIO
+O jogador poderá armazenar os objetos encontrados.
+Exemplos:
+🔑 Chave;
+🔦 Lanterna;
+📜 Bilhete;
+🗺️ Mapa;
+🕯️ Vela;
+🧰 Ferramenta;
+🧩 Peças de puzzle.
+Os objetos poderão ser utilizados em diferentes partes da mansão.
+7.5 DIÁRIO DE INVESTIGAÇÃO
+O diário servirá para registrar as principais descobertas do jogador.
+Ele poderá armazenar:
+Pistas;
+Símbolos encontrados;
+Informações sobre os personagens;
+Descobertas sobre a mansão;
+Anotações importantes para os puzzles.
+8. SISTEMA DE PISTAS
+O jogo terá um sistema de dicas para ajudar o jogador caso fique preso em algum puzzle.
+As dicas poderão revelar:
+Onde encontrar determinado objeto;
+Qual elemento do cenário deve ser investigado;
+Uma parte da lógica do puzzle;
+Uma informação necessária para continuar.
+As dicas não revelarão diretamente a resposta.
+9. MAPA DA MANSÃO
+A mansão será dividida em diferentes áreas:
+9.1 Entrada
+Primeiro contato com a mansão e local onde o jogador percebe que está preso.
+9.2 Salão Principal
+Possui objetos antigos, quadros e a primeira pista.
+9.3 Biblioteca
+Local com livros, documentos e puzzles relacionados a códigos.
+9.4 Cozinha
+Possui objetos que poderão ser utilizados em outros ambientes.
+9.5 Corredores
+Conectam os diferentes cômodos e podem apresentar momentos de perseguição.
+9.6 Porão
+Área escura onde serão encontradas pistas importantes sobre o mistério.
+9.7 Sala Secreta
+Área escondida que contém informações importantes sobre o responsável pelos acontecimentos.
+9.8 Sala Final
+Local onde o jogador resolve o último puzzle e descobre a verdade.
+10. PUZZLES
+Os puzzles estarão conectados às pistas encontradas durante a exploração.
+Exemplo:
+O jogador encontra uma porta com quatro símbolos:
+🕯️ 📖 🗝️ 🕰️
+Em outro cômodo, encontra um quadro mostrando os mesmos símbolos em determinada ordem.
+Ao perceber a relação entre os objetos, o jogador coloca a sequência correta na porta.
+Resultado: porta desbloqueada.
+Dessa forma, os puzzles exigirão observação e interpretação, e não apenas tentativa e erro.
+11. PERSEGUIÇÕES
+Durante a investigação, o monstro poderá aparecer em determinados momentos.
+Quando isso acontecer, o jogador deverá fugir até encontrar um local seguro.
+Funcionamento:
+Monstro aparece → Perseguição começa → Jogador procura uma rota de fuga → Encontra esconderijo → Perseguição termina.
+As perseguições serão utilizadas para aumentar o suspense e criar momentos de tensão.
+12. MONSTRO
+Durante grande parte do jogo, o jogador acreditará que está sendo perseguido por uma criatura sobrenatural.
+A identidade e os motivos do monstro serão descobertos gradualmente através das pistas.
+Ao final, será revelado que o monstro não é realmente uma criatura sobrenatural, seguindo a estrutura clássica das histórias de Scooby-Doo.
+13. SISTEMA DE PROGRESSÃO
+A progressão será baseada na exploração e resolução dos puzzles.
+Entrada
+↓
+Primeira investigação
+↓
+Primeiro puzzle
+↓
+Nova área desbloqueada
+↓
+Novas pistas
+↓
+Primeira aparição do monstro
+↓
+Novos puzzles
+↓
+Perseguição
+↓
+Investigação do porão
+↓
+Descoberta da sala secreta
+↓
+Revelação das pistas principais
+↓
+Puzzle final
+↓
+Descoberta do vilão
+↓
+Fuga da mansão
+14. CONDIÇÕES DE VITÓRIA
+O jogador vence quando:
+Resolve os puzzles principais;
+Encontra as pistas necessárias;
+Descobre a identidade do monstro;
+Desbloqueia a saída;
+Escapa da mansão.
+Mensagem final:
+“Mistério resolvido!”
+15. CONDIÇÕES DE DERROTA
+O jogador poderá perder durante determinadas perseguições caso seja alcançado pelo monstro.
+Após perder, poderá retornar ao último ponto de progresso.
+16. CHECKPOINTS
+O progresso poderá ser salvo após:
+Resolver um puzzle importante;
+Desbloquear uma nova área;
+Encontrar uma pista principal;
+Completar uma perseguição.
+17. INTERFACE
+A interface contará com:
+Inventário;
+Diário de investigação;
+Sistema de dicas;
+Indicador de interação;
+Botão de pausa;
+Indicador de progresso.
+A interface terá elementos visuais inspirados em mistério, investigação e histórias de detetive.
+18. CONTROLES
+Teclado
+WASD / Setas: movimentação
+E: interagir
+I: abrir inventário
+Esc: pausa
+Mouse
+Clique: interagir com objetos e elementos do cenário
+Arrastar: utilizar itens em determinados objetos
+19. DIREÇÃO DE ARTE
+O jogo terá uma estética 2D cartoon, inspirada no visual clássico de Scooby-Doo.
+A mansão terá:
+Ambientes escuros;
+Cores sombrias;
+Iluminação baixa;
+Objetos antigos;
+Quadros;
+Corredores misteriosos;
+Passagens secretas;
+Elementos engraçados.
+O terror será leve, combinando suspense, investigação e humor.
+20. ÁUDIO
+O jogo contará com:
+Música de suspense;
+Sons de passos;
+Portas rangendo;
+Objetos se movendo;
+Sons de perseguição;
+Efeitos sonoros cômicos;
+Sons ambientes da mansão.
+A música e os efeitos mudarão de acordo com a situação do jogador.
+21. TECNOLOGIA
+Motor: Godot
+Linguagem: GDScript
+Plataforma: Web
+Formato: 2D
+Modo: Single-player
+Controles: Teclado e mouse
+Execução: Navegador
+22. DIFERENCIAL
+O diferencial do jogo será transformar o universo de Scooby-Doo em uma experiência de escape room.
+Em vez de apenas seguir uma história, o jogador precisará observar o cenário, interpretar pistas, utilizar objetos e solucionar os enigmas por conta própria para descobrir a verdade e escapar da mansão.GDD — SCOOBY-DOO: O MISTÉRIO DA MANSÃO 
 
-26. OBJETIVO FINAL DO PROJETO
-
-Criar uma experiência curta de terror 2D focada em exploração, suspense e fuga, utilizando uma estrutura simples o suficiente para ser desenvolvida como um jogo para Web.
-
-O jogador deverá sentir que está sendo observado e perseguido enquanto tenta descobrir o que aconteceu naquela noite.
-O objetivo não é lutar contra o terror.
-É sobreviver a ele.
- 
+Novas pistas
+↓
+Primeira aparição do monstro
+↓
+Novos puzzles
+↓
+Perseguição
+↓
+Investigação do porão
+↓
+Descoberta da sala secreta
+↓
+Revelação das pistas principais
+↓
+Puzzle final
+↓
+Descoberta do vilão
+↓
+Fuga da mansão
+14. CONDIÇÕES DE VITÓRIA
+O jogador vence quando:
+Resolve os puzzles principais;
+Encontra as pistas necessárias;
+Descobre a identidade do monstro;
+Desbloqueia a saída;
+Escapa da mansão.
+Mensagem final:
+“Mistério resolvido!”
+15. CONDIÇÕES DE DERROTA
+O jogador poderá perder durante determinadas perseguições caso seja alcançado pelo monstro.
+Após perder, poderá retornar ao último ponto de progresso.
+16. CHECKPOINTS
+O progresso poderá ser salvo após:
+Resolver um puzzle importante;
+Desbloquear uma nova área;
+Encontrar uma pista principal;
+Completar uma perseguição.
+17. INTERFACE
+A interface contará com:
+Inventário;
+Diário de investigação;
+Sistema de dicas;
+Indicador de interação;
+Botão de pausa;
+Indicador de progresso.
+A interface terá elementos visuais inspirados em mistério, investigação e histórias de detetive.
+18. CONTROLES
+Teclado
+WASD / Setas: movimentação
+E: interagir
+I: abrir inventário
+Esc: pausa
+Mouse
+Clique: interagir com objetos e elementos do cenário
+Arrastar: utilizar itens em determinados objetos
+19. DIREÇÃO DE ARTE
+O jogo terá uma estética 2D cartoon, inspirada no visual clássico de Scooby-Doo.
+A mansão terá:
+Ambientes escuros;
+Cores sombrias;
+Iluminação baixa;
+Objetos antigos;
+Quadros;
+Corredores misteriosos;
+Passagens secretas;
+Elementos engraçados.
+O terror será leve, combinando suspense, investigação e humor.
+20. ÁUDIO
+O jogo contará com:
+Música de suspense;
+Sons de passos;
+Portas rangendo;
+Objetos se movendo;
+Sons de perseguição;
+Efeitos sonoros cômicos;
+Sons ambientes da mansão.
+A música e os efeitos mudarão de acordo com a situação do jogador.
+21. TECNOLOGIA
+Motor: Godot
+Linguagem: GDScript
+Plataforma: Web
+Formato: 2D
+Modo: Single-player
+Controles: Teclado e mouse
+Execução: Navegador
+22. DIFERENCIAL
+O diferencial do jogo será transformar o universo de Scooby-Doo em uma experiência de escape room.
+Em vez de apenas seguir uma história, o jogador precisará observar o cenário, interpretar pistas, utilizar objetos e solucionar os enigmas por conta própria para descobrir a verdade e escapar da mansão.GDD — SCOOBY-DOO: O MISTÉRIO DA MANSÃO
